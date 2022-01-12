@@ -1,0 +1,1 @@
+data modify block ~ ~ ~ Items[{Slot:4b}] merge from storage trademod Tradenum

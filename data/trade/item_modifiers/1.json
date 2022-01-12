@@ -1,0 +1,11 @@
+[
+  {
+    "function": "minecraft:set_enchantments",
+    "enchantments": {},
+    "add": false
+  },
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{Selector:1b}"
+  }
+]
